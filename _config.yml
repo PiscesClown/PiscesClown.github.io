@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "파이클의 집"
+title                    : "PiscesClown House"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PiscesClown"
-description              : "파이클의 집이에요"
+description              : "I'm PiscesClown"
 url                      : "https://PiscesClown.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -38,12 +38,12 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-​    appid                :
-​    num_posts            : # 5 (default)
-​    colorscheme          : # "light" (default), "dark"
+??   appid                :
+??   num_posts            : # 5 (default)
+??   colorscheme          : # "light" (default), "dark"
   utterances:
-​    theme                : # "github-light" (default), "github-dark"
-​    issue_term           : # "pathname" (default)
+??   theme                : # "github-light" (default), "github-dark"
+??   issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -54,12 +54,12 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-​    email                : # "md5"
+??   email                : # "md5"
   generatedFields:
-​    date:
-​      type               : # "date"
-​      options:
-​        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+??   date:
+??     type               : # "date"
+??     options:
+??       format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
@@ -108,31 +108,31 @@ analytics:
 
 
 # Site Author
-​	author:
+??author:
   name             : "PiscesClown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "For my happiness"
   location         : "Neptune"
   email            : "PiscesClown@gmail.com
   links:
-​    - label: "Email"
-​      icon: "fas fa-fw fa-envelope-square"
-​      # url: mailto:your.name@email.com
-​        - label: "Website"
-​      icon: "fas fa-fw fa-link"
-​      # url: "https://your-website.com"
-​        - label: "Twitter"
-​      icon: "fab fa-fw fa-twitter-square"
-​      # url: "https://twitter.com/PiscesClown"
-​        - label: "Facebook"
-​      icon: "fab fa-fw fa-facebook-square"
-​      # url: "https://facebook.com/"
-​        - label: "GitHub"
-​      icon: "fab fa-fw fa-github"
-​      # url: "https://github.com/"
-​        - label: "Instagram"
-​      icon: "fab fa-fw fa-instagram"
-​      # url: "https://instagram.com/"
+??   - label: "Email"
+??     icon: "fas fa-fw fa-envelope-square"
+??     # url: mailto:your.name@email.com
+??       - label: "Website"
+??     icon: "fas fa-fw fa-link"
+??     # url: "https://your-website.com"
+??       - label: "Twitter"
+??     icon: "fab fa-fw fa-twitter-square"
+??     # url: "https://twitter.com/PiscesClown"
+??       - label: "Facebook"
+??     icon: "fab fa-fw fa-facebook-square"
+??     # url: "https://facebook.com/"
+??       - label: "GitHub"
+??     icon: "fab fa-fw fa-github"
+??     # url: "https://github.com/"
+??       - label: "Instagram"
+??     icon: "fab fa-fw fa-instagram"
+??     # url: "https://instagram.com/"
 
 # Site Footer
 footer:
